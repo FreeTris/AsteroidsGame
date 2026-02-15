@@ -1,0 +1,16 @@
+# Visual Studio
+.vs/
+*.user
+*.vcxproj.user
+
+#build folders
+Debug/
+Release/
+x64/
+x86/
+
+# Build artifiacts 
+*.exe
+*.obj
+*.pdb
+*.ilk 
