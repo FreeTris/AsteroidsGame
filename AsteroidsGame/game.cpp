@@ -6,7 +6,7 @@ void Game::Init(float w, float h) {
     previousTime = GetTime();
     Restart(w, h);
 }
-
+// test for git update 
 void Game::Restart(float w, float h) {
     mode = Mode::Playing;
     score = 0;
